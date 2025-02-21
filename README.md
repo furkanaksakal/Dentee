@@ -1,35 +1,38 @@
-# Dentee - Web Pentest Aracı 🔒
+<p align="center">
+  <img src="https://github.com/furkanaksakal/Dentee/assets/logo.png" alt="Dentee Logo" width="200"/>
+</p>
 
-**Dentee**, OWASP Top 10 açıklarını tespit etmek için geliştirilmiş profesyonel bir web uygulama güvenlik tarayıcısıdır.  
-Hızlı, etkili ve kullanımı kolay olan bu araç, siber güvenlik uzmanları ve geliştiriciler için ideal bir çözümdür.
+<h1 align="center">Dentee - OWASP Top 10 Web Pentest Tool 🔒</h1>
+
+<p align="center">
+  <b>Web uygulamalarındaki güvenlik açıklarını tespit etmek için güçlü bir araç.</b> <br/>
+  🚀 Hızlı, etkili ve esnek sızma testi çözümü!
+</p>
 
 ---
 
 ## 🔍 Hakkında
 
-- Web uygulamalarındaki yaygın güvenlik açıklarını tespit eder.  
-- OWASP Top 10 listesine odaklanır.  
-- CWE kodları ve CVSS skorları ile detaylı rapor sunar.  
-- Geliştirici dostu komut satırı arayüzüne sahiptir.  
+**Dentee**, yaygın web uygulama güvenlik açıklarını tespit etmek amacıyla geliştirilmiş güçlü bir pentest aracıdır.  
+OWASP Top 10 kapsamındaki açıklara odaklanarak sonuçları **CWE kodları** ve **CVSS skorları** ile sunar.
 
 ---
 
 ## 🚀 Özellikler
-
-- ✅ **SQL Injection** (CWE-89)  
-- ✅ **Cross-Site Scripting (XSS)** (CWE-79)  
-- ✅ **Local File Inclusion (LFI)** (CWE-73)  
-- ✅ **Cross-Site Request Forgery (CSRF)** (CWE-352)  
-- ✅ Hızlı ve derin tarama seçenekleri  
-- ✅ Detaylı rapor ve log çıktıları  
+- 🛡️ **SQL Injection (CWE-89)**  
+- 🕵️ **XSS (Cross-Site Scripting) (CWE-79)**  
+- 🗂️ **LFI (Local File Inclusion) (CWE-73)**  
+- 🔗 **CSRF (Cross-Site Request Forgery) (CWE-352)**  
+- 🔥 **Brute Force ve Wordlist saldırıları**  
+- 📊 Detaylı raporlama ve log kaydı  
 
 ---
 
-## ⚙️ Kurulum
+## 💻 Kurulum
 
 ### Gereksinimler:
-- Python 3.8 veya üzeri  
-- `pip` paket yöneticisi  
+- Python 3.8+
+- `pip` paket yöneticisi
 
 ### Yükleme Adımları:
 ```bash
